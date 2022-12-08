@@ -11,5 +11,8 @@
   "dependencies": {
     "@web3-react/core": "^6.1.9",
     "ethers": "^5.7.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
